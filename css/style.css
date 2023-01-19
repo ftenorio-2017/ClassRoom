@@ -1,0 +1,40 @@
+body {
+  padding-top: 15px;
+  background-color: #1b2722;
+}
+
+#idMain {
+  background: url("../images/chalkboard wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+#idTitle {
+  padding-top: 15px;
+}
+
+p {
+  font-size: 16px;
+}
+
+/* #idHeader {
+  background: url("../images/banner1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*background-attachment: fixed;
+  background-position: center;
+} */
+
+#idHeaderL {
+  padding-top: 25px;
+}
+
+@font-face {
+  font-family: letraTipoGis;
+  src: url(../fonts/KGBrokenVesselsSketch.ttf);
+}
+
+div {
+  font-family: letraTipoGis;
+  color: #f2f2f2;
+}
